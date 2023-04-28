@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙️Full Stack Automation Engineer<br>🌱Java,CucumberBDD,Junit,Selenium,SQL,Rest Assured,Jenkins,Jira<br>💡Idea: Eclipse,Intellij,VSCode<br>👸 I enjoy working in a Team on Projects<br>Hobby:<br>♒Art & Crafts<br>🎮 Play Video Game<br>🗨️ Ask me : eshwa.chaudhry12@gmail.com
+⚙️Full Stack Automation Engineer<br>🌱Java,CucumberBDD,Junit,Selenium,SQL,Rest Assured,Jenkins,Jira<br>💡Idea: Eclipse,Intellij,VSCode<br>👸 I enjoy working in a Team on Projects<br>Hobby:<br>♒Art & Crafts<br>🎮 Play Video Game<br>🗨️
 
 
 # 💻 Tech Stack:
